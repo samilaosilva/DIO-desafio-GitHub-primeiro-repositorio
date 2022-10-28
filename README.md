@@ -1,2 +1,2 @@
-# DIO-desafio-GitHub-primeiro-repositorio
-Desafio de projeto sobre Git/GitHub
+# Repositório do desafio de projeto Git/GitHub da DIO
+Primeiro desafio do Bootcamp DIO/Ifood
